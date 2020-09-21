@@ -1,0 +1,12 @@
+C:\Users\Simo\source\repos\GamingLib\GamingLib\bin\Debug\GamingLib.exe.config
+C:\Users\Simo\source\repos\GamingLib\GamingLib\bin\Debug\GamingLib.exe
+C:\Users\Simo\source\repos\GamingLib\GamingLib\bin\Debug\GamingLib.pdb
+C:\Users\Simo\source\repos\GamingLib\GamingLib\bin\Debug\GamingLib.xml
+C:\Users\Simo\source\repos\GamingLib\GamingLib\obj\Debug\GamingLib.vbprojAssemblyReference.cache
+C:\Users\Simo\source\repos\GamingLib\GamingLib\obj\Debug\GamingLib.Form1.resources
+C:\Users\Simo\source\repos\GamingLib\GamingLib\obj\Debug\GamingLib.Resources.resources
+C:\Users\Simo\source\repos\GamingLib\GamingLib\obj\Debug\GamingLib.vbproj.GenerateResource.cache
+C:\Users\Simo\source\repos\GamingLib\GamingLib\obj\Debug\GamingLib.vbproj.CoreCompileInputs.cache
+C:\Users\Simo\source\repos\GamingLib\GamingLib\obj\Debug\GamingLib.exe
+C:\Users\Simo\source\repos\GamingLib\GamingLib\obj\Debug\GamingLib.xml
+C:\Users\Simo\source\repos\GamingLib\GamingLib\obj\Debug\GamingLib.pdb
